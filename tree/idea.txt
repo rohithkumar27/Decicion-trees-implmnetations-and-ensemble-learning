@@ -1,0 +1,13 @@
+info gain=toal entropy-weighted entropy of each class in the attribute
+
+
+SOme learings in the assignment:of coding memoriesers
+using df[columns]
+using df.columns
+using series.unique()
+using np.unique(series)
+
+
+
+Understanding the tree calassifier :
+
